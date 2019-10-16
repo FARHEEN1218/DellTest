@@ -1,0 +1,15 @@
+<div class="product-selector jumbotron-overlay">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-xs-12 col-xs-offset-0 divHomeEntrySelection">
+                <!--Entry Selection Component-->
+<div class="content-primary entry-loader-initial" id="divEntryLoader">
+    <h3>Enter a Service Tag, Serial Number, Service Request, Model, or Keyword.<a href="javascript:void(0)" class="entryInfoPop"><i class="icon-small-alertinfo text-blue"></i></a></h3><br />
+    <div class="row">
+        <div class="col-xs-8"><div class="entry-placeholder entry-placeholder-line"></div></div><div class="col-xs-4"><div class="entry-placeholder entry-placeholder-line"></div></div>
+    </div><br />
+    <div class="row">
+        <div class="col-xs-12"><div class="entry-placeholder"></div></div><div class="col-xs-6"><div class="entry-placeholder"></div></div><div class="col-xs-6"><div class="entry-placeholder"></div></div>
+    </div>
+</div>
+<div style="display: none"><a href="/support/home/us/en/04/api/catalog/allproducts">Browse all products</a></div>
